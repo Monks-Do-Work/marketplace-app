@@ -34,7 +34,7 @@ export async function loader({ params, request }) {
             reference {
                 ... on MediaImage {
                     image {
-                        originalSrc
+                        originalSrc: url
                     }
                 }
             }

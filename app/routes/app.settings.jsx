@@ -69,7 +69,9 @@ export const loader = async ({ request }) => {
             title
             handle
             updatedAt
-            productsCount
+            productsCount {
+              count
+            }
             sortOrder
           }
         }

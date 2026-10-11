@@ -64,7 +64,7 @@ export const UPDATE_METAOBJECT = `
                 reference {
                   ... on MediaImage {
                     image {
-                      originalSrc
+                      originalSrc: url
                     }
                   }
                 }

@@ -36,7 +36,7 @@ query getMetaObject($id: ID!) {
       reference {
       ... on MediaImage {
           image {
-            originalSrc
+            originalSrc: url
           }
         }
       }
