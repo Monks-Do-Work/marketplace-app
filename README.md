@@ -26,7 +26,7 @@ Also, it uses shopify [react vite](https://github.com/montalvomiguelo/theme-exte
 6. Important for theme app extension: change the proxy url in the shopify app settings to your updated cloudflare url
 
 
-## To Do 📝
+## To Do: 📝
 
 ### Frontend Seller
 - [ ] Create new product - huge
